@@ -1,0 +1,24 @@
+#Calculator test
+int c#short of ";"
+float c=1.2;
+double b;#not allowing type:"double"
+int aa;
+int aa;#repeatedly statement
+float d;
+float cc;
+int u;
+int v;
+aa=17;
+cc=abc+1;#undefined identifier
+write(cc);
+cc=aa+(3+aa)*4.5;
+d=aa/0;#divided by zero
+u=u+1;
+syntax_error_test1#syntax error
+syntax_error_test2;#syntax error
+write(aa);
+write(cc);
+write(abc);#undefined identifier
+write(u);#uninitialized identifier
+write(v);#uninitialized identifier
+write(d).#end of code

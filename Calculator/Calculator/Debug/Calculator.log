@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(315,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(341,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(127,1): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(127,1): warning C4244:         with
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(127,1): warning C4244:         [
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(127,1): warning C4244:             _Ty=double
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(127,1): warning C4244:         ]
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(127,1): warning C4244:         and
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(127,1): warning C4244:         [
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(127,1): warning C4244:             _Ty2=float
+E:\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\utility(127,1): warning C4244:         ]
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message : 查看对正在编译的函数 模板 实例化“std::pair<std::string,float>::pair<std::string&,double,0>(_Other1,_Other2 &&) noexcept(false)”的引用
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :         with
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :         [
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :             _Other1=std::string &,
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :             _Other2=double
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :         ]
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message : 查看对正在编译的函数 模板 实例化“std::pair<std::string,float>::pair<std::string&,double,0>(_Other1,_Other2 &&) noexcept(false)”的引用
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :         with
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :         [
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :             _Other1=std::string &,
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :             _Other2=double
+C:\Users\xiaopeng\source\repos\Calculator\Calculator\Analyse.h(293): message :         ]
+  Calculator.vcxproj -> C:\Users\xiaopeng\source\repos\Calculator\Debug\Calculator.exe
